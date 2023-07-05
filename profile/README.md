@@ -8,7 +8,7 @@
     <img src="images/logo.png" alt="Logo" width="100" height="100">
   </a>
 
-<h3 align="center">Bugrow Games</h3>
+<h1 align="center">Bugrow Games</h1>
 
   <p align="center">
     project_description
