@@ -11,7 +11,7 @@
 <h1 align="center">Bugrow Games</h1>
 
   <p align="center">
-    project_description
+    Bugrow Games is a game development studio that focuses on creating games mainly focusing on linear story telling and immersive gameplay.
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
