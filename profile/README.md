@@ -17,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Current Project: BEHIND REALITY
 
-[![Product Name Screen Shot][images/behindreality.png]](https://example.com)
+[![Behind Reality Logo][behindreality]](https://example.com)
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
@@ -27,3 +27,6 @@ Here's why:
 * You should implement DRY principles to the rest of your life :smile:
 
 Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[behindreality]: images/behindreality.png
