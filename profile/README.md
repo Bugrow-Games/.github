@@ -17,7 +17,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Current Project: BEHIND REALITY
   
-  [![Product Name Screen Shot][https://github.com/github_username/repo_name/images/behindreality.png]](https://example.com)
+[![Product Name Screen Shot]["images/behindreality.png"]]
 
 There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
 
