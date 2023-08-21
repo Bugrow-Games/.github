@@ -15,7 +15,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-## Current Project: BEHIND REALITY
+## Current Projects: BEHIND REALITY
 
 [![Behind Reality Logo][behindreality]](https://example.com)
 
@@ -31,3 +31,7 @@ Inspirations for this game:
 
 <!-- MARKDOWN LINKS & IMAGES -->
 [behindreality]: images/behindreality.png
+
+<!-- ABOUT THE PROJECT -->
+## Current Projects: UNTITLED ROBBERY GAME
+
