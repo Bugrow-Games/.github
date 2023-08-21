@@ -32,8 +32,6 @@ Inspirations for this game:
 <!-- MARKDOWN LINKS & IMAGES -->
 [behindreality]: images/behindreality.png
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## Current Projects: UNTITLED ROBBERY GAME
 
