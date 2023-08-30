@@ -1,9 +1,5 @@
 {
     "name": "Luau CI",
     "description": "Luau CI starter workflow. Runs a linter then styler.",
-    "iconName": "octicon codescan",
-    "filePatterns": [
-        "^.project.json",
-        "^.lua"
-    ]
+    "iconName": "octicon codescan"
 }
