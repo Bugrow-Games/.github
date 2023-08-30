@@ -1,6 +1,6 @@
 {
     "name": "Lua CI",
-    "description": "Lua CI starter workflow. Runs a linter then styler.",
+    "description": "Lint and style Lua with StyLua and Selene.",
     "iconName": "octicon codescan",
     "categories": ["Lua"]
 }
